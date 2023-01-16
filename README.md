@@ -19,8 +19,8 @@ Drag and drop this into your bookmarks bar and then click it on i-Ready
 <br>
 # Next update I will be adding
 **1.Minute farmer**<br>
-You can gain minuites without having to touch your computer
+You can gain minuites without having to touch your computer<br>
 **2.Name Changer**<br>
-Mainly so I can record youtube videos without my name being shown
+Mainly so I can record youtube videos without my name being shown<br>
 **3.Free games**<br>
-Free i-Ready games lol thats it
+Free i-Ready games lol thats it<br>
