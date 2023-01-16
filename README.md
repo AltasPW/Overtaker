@@ -9,7 +9,7 @@ Drag and drop this into your bookmarks bar and then click it on i-Ready
 **1.Fake score<br>**
 This can fake an i-Ready score. DOESN'T COUNT AS A PASSED LESSON ITS FAKE<br>
 **2.Lesson skipper<br>**
-this will actually skip a lesson for you and count it as whatever score you choose
+this will actually skip a lesson for you and count it as whatever score you choose<br>
 **3.Theme**<br>
 You can make your own background<br>
 # Overtaker (cool name ig)
