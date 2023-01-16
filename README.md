@@ -1,6 +1,8 @@
 # Bookmarklet
 Drag and drop this bookmarklet into your bookmarks bar and then click it on i-Ready's homepage!
 ```javascript:fetch("https://raw.githubusercontent.com/AltasPW/Overtaker/main/main.js").then(r=>r.text()).then(r=>eval(r))```
+# How to use
+When you click the bookmarklet (look at Bookmarklet above this) it will create a new button, should be next to "Learning games" and "My stuff". Click the button called "Open Panel" and go from there.
 # Overtaker
 I-Ready hacks, made by wang, and Altas. Such cool.
 # Features<br>
